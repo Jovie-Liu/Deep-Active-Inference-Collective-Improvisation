@@ -1,2 +1,2 @@
-# Deep Active Inference for Niche Construction and Synchronization
+# Deep Active Inference
 
