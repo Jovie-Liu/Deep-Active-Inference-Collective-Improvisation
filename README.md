@@ -1,1 +1,2 @@
-# Deep-Active-Inference-Collective-Improvisation
+# Deep Active Inference for Niche Construction and Synchronization
+
