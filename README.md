@@ -1,6 +1,9 @@
 # Deep Active Inference
 
-This is a work I did in my early Ph.D. years 2020-2021 at UC San Diego Computer Music with Prof. Shlomo Dubnov. We investigated the artificial interactive systems under active inference and the free energy principle to understand how individuals or musicians infer each others' minds and adapt behaviors accordingly in a communicative or collective context. This work was presented at Prof. Karl Friston's Theoretical Neurobiology Seminar at University College London on June 10th, 2021 [[presentation slides](https://drive.google.com/file/d/1W5Op0P_I2fS078E3L6AGVdwaEGdfBgca/view?usp=drive_link)].
+This is a work I did in my early Ph.D. years 2020-2021 at UC San Diego Computer Music with Prof. Shlomo Dubnov. We investigated the artificial interactive systems under active inference and the free energy principle to understand how individuals or musicians infer each others' minds and adapt behaviors accordingly in a communicative or collective context. 
+
+- This work was presented at Prof. Karl Friston's Theoretical Neurobiology Seminar at University College London on June 10th, 2021 [[presentation slides](https://drive.google.com/file/d/1W5Op0P_I2fS078E3L6AGVdwaEGdfBgca/view?usp=drive_link)].
+- This work was presented at the MMM Model Suites: Models and Modelling in Computer Science Seminar at Kiel University, Germany, on June 15th, 2021 [[presentation slides](https://drive.google.com/file/d/1xfXOJbGd7-8pF3BsQV1B9tHRels2cqZQ/view)].
 
 <img src="Pictures/graph_1.jpg" style="width:800px">
 <img src="Pictures/graph_2.jpg" style="width:800px">
