@@ -10,7 +10,7 @@ This is a work I did in my early Ph.D. years 2020-2021 at UC San Diego Computer 
     
 - **Variational niche construction via a way of ''[thinking through other minds](https://sandervandecruys.be/pdf/2020_VandeCruysHeylighenBBS_Dark_side.pdf)''**: By generalizing the vanilla agent-environment model, we proposed a linguistic communication model that positions the agent and environment at equal status, thus constructing the niche interactively by active inference.
 
-- **Real-time synchronization \& collective improvisation**: A music model that favors the active niche construction but achieves real-time synchronization is established, which addresses the ''collective improvisation'' problem widely studied in music performance especially free jazz.
+- **Real-time synchronization \& collective improvisation**: A music model that favors the active niche construction but achieves real-time synchronization is established, which addresses the ''collective improvisation'' problem widely studied in music performance especially free jazz [[Free Play: Improvisation in Life and Art](https://www.scribd.com/document/121769908/Free-Play-Improvisation-in-Life-and-Art)].
 
 <img src="Pictures/Communication model.jpg" style="width:900px">
 <caption><center> Figure 2. Action-Perception Loop of Linguistic Communication Model. </center></caption>
